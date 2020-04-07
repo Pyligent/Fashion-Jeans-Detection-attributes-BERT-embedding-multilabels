@@ -46,7 +46,8 @@ Formally, multi-label classification is the problem of finding a model that maps
   
  -Results:
  
-![img6](https://github.com/Pyligent/fashion-jeans-detection-attributes-BERT-embedding-multilabels/blob/master/img/mlr1.png)
+![img6](https://github.com/Pyligent/fashion-jeans-detection-attributes-BERT-embedding-multilabels/blob/master/img/mlr1.png)   
+
 ![img7](https://github.com/Pyligent/fashion-jeans-detection-attributes-BERT-embedding-multilabels/blob/master/img/mlr2.png)
 ![img8](https://github.com/Pyligent/fashion-jeans-detection-attributes-BERT-embedding-multilabels/blob/master/img/mlr3.png)
 
