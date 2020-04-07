@@ -1,5 +1,5 @@
-# fashion-jeans-detection-attributes-BERT-embedding-multilabels
-### Detection, Multi-Labels Classification and Attributes Embedding
+
+### Fashio Detection & Segmentation, Multi-Labels Classification and Attributes Embedding
 
 ### 1. Jeans Detection and Segmentation
 
